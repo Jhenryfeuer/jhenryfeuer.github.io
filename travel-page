@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <link href='https://fonts.googleapis.com/css?family=Amarante' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+        <meta charset="utf-8">
+        <title>Travel Plans for 2020</title>
+    
+    <style>
+        body, html {
+            height: 100%;
+        }
+        
+.hero-image {
+    background-image: linear-gradient(rgba(107, 107, 107, 0.5), rgba(0, 0, 0, 0.5)), url("https://upload.wikimedia.org/wikipedia/commons/7/70/Aachener_Wald_-_geo.hlipp.de_-_5415.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.hero-image2 {
+    background-image: linear-gradient(rgba(107, 107, 107, 0.5), rgba(0, 0, 0, 0.5)), url("https://upload.wikimedia.org/wikipedia/commons/d/da/The_Parthenon_in_Athens.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.hero-text2 {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.hero-image3 {
+    background-image: linear-gradient(rgba(107, 107, 107, 0.5), rgba(0, 0, 0, 0.5)), url("https://upload.wikimedia.org/wikipedia/commons/e/e0/Porkeri.2.2002.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.hero-text3 {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+body {
+        background-color: rgb(17, 21, 66);
+        }
+        .title {
+            color: rgb(255, 255, 255);
+            font-family: Amarante;
+            font-size: 250%;
+            text-align: center;
+        }
+        .text {
+            color: rgb(255, 255, 255);
+            font-family: Montserrat;
+            text-align: justify;
+            font-size: .85em;
+            margin-left: 5.0%;
+            margin-right: 5%;
+        }
+        .text-border {
+            border: .5px;
+            border-style: solid;
+            border-color:rgb(255, 255, 255);
+            margin-top: 10px;
+            margin-bottom: 10px;
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+        .link-color {
+            color: rgb(128, 237, 150);
+        }
+    </style>
+</head>
+
+<div class="hero-image">
+    <div class="hero-text">
+    <h1 class="title">TRAVEL PLANS 2020</h1>
+</div>
+</div>
+
+<body>
+
+<div class="text-border">
+    <p class="text">Hope you're all staying safe and healthy out there during this trying time of the pandmeic. We all need to be strong and support each other when times are hard like this. There are many things we can do besides wearing a mask and gloves and practicing social distancing to keep ourselves healthy.</p>
+    
+    <p class="text">We shold not forget about our emotional and mental health! Take action to do things you like to do that are safe. There are many options available, for example, you can learn new skills on KhanAcademy! That's exactly what I'm doing... I've been learning HTML and CSS fundamentals for about 2 weeks now, and look at this beautiful page I'm creating!</p>
+    
+    <p class="text">In times like these, it's important to maintain a realistic, yet positive focus. I would like to think about where I should visit once international travel is considered safe.</p>
+</div><br>        
+
+<div class="hero-image2">
+    <div class="hero-text2">
+    <h2 class="title">GREECE</h2>
+</div>
+</div>
+
+<div class="text-border">
+    <p class="text">Considered to be one of the most beautiful places in the world, Greece is home to some of the oldest architectural structures that are still standing today. Did I mention the beaches? You're in for a treat. Beautiful, crystal clear warm water. A trip here is enlightening as well as rejuvinating.</p>
+    <p class="text">Unfortunately, the economy in Greece does not match its beauty. Due to overfishing, trying to buy a whole fish at a restaurant might cost you over $1,000.00!!! Just take that into consideration when venturing out.</p>
+    <p class="text"> Here are a few of the Greek islands to consider visiting:</p>
+    <ul class="text">
+        <li>Mykonos
+        <li>Athens
+        <li>Crete
+        <li>Santorini
+        <li>Rhodes
+    </ul>
+    <p class="text">Ideally, you will want to travel there with someone who has lived there, and possibly stay with family or friends. The expense difficulties aside, it's well worth the trip, so consider this as one of your travel options when healthy safety becomes less of a risk.</p>
+</div><br>
+
+<div class="hero-image3">
+    <div class="hero-text3">
+    <h2 class="title">NORWAY</h2>
+</div>
+</div>
+
+<div class="text-border">
+    <p class="text">The mountains and valleys of Norway are a sight to behold! From breathtaking landscapes to modern urban cities, there is so much to see here. Being in the Arctic Circle also affords you the opportunity to see the majestic Northern Lights (aurora borealis).</p>
+    <p class="text">Norway feels like a mystical land with many surprises everywhere you turn. Feel free to read up on <a class="link-color" href="https://en.wikipedia.org/wiki/Scandinavian_folklore"> Scandanavian Folklore</a>. Here are a few points of interest for you to see on your trip:</p>
+    <ul class="text">
+        <li>Oslo
+        <li>Tromsø
+        <li>Lofoten & Nordland
+        <li>Bergen & Western Fjords
+        <li>Geirangerfjord & the Northwest
+        <li>Mountains & Valleys of Eastern Norway
+    </ul>
+    <p class="text">Make sure when you plan your trip, you give yourself enough time to take in each place you visit. Take lots of pictures and be sure to share with your friends and family, (and me too).</p>
+</div><br>
+
+<p class="text">I hope you enjoyed my travel page, and feel free to give me any suggestions with code, layout, color styles, or anything else of note. Thanks for looking.</p>
+<p class="text">-Jonah</p>
+    </body>
+</html>
